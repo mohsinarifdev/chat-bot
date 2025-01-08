@@ -1,5 +1,5 @@
 # chat-bot
-Chat bot is django based web app. 
+Chat bot is django based web app. It has a user friendly interface where can you can talk to this chat bot
 
 
 **How to use**
